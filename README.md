@@ -156,14 +156,14 @@ Response:
       "email": "example@gmail.com",
       "address": {
                    "id": 1,
-                   "address": "ÑƒÐ». ÐÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ð°Ñ 60"
+                   "address": "somajiguda Hyderabad"
                    "city": {
                              "id":1,
-                             "name": "ÐœÐ¸Ð½ÑÐº",
+                             "name": "VafeN",
                              "country": {
                                           "id": 1,
-                                          "name": "Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÑŒ",
-                                          "abbreviation": "BY"
+                                          "name": "India",
+                                          "abbreviation": "IN"
                                         }  
                            }
                   }
